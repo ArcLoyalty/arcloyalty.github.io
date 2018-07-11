@@ -8,6 +8,11 @@ gems:
 exclude:
   - "/vendor/"
 
+#disque comments are borken if you send http:// along with url, this url is same
+#Deleting the value would remote it from footer
+disqus_url:
+disqus_id: arcloyalty
+
 # Site settings
 title: Centrarium
 subtitle: "A simple yet classy theme for your Jekyll website or blog"
