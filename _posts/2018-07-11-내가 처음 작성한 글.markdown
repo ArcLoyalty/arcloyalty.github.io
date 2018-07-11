@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My First Post!"
-
+comments : true
 ---
 
 ## 만나서 반갑습니다 나는 ArcLoyalty 입니다.
