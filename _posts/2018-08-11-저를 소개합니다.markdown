@@ -13,13 +13,6 @@ comments: true
 간략히 저의 대해서 유추할 수 있는 포스트는 있어도 현재까지(2018.08.11) 저에 대해서 정리해놓은 글이 없었습니다.
 그리하여 SNS를 대신해서 여기에 저의 역사를 정리해볼려 합니다!
 
-##### 고등학교 1학년~2학년 현재까지의 공부 진행 방향
-
-> 1. C(기본적인 간단한 문법-> If, For, goto, 구조체, 매크로 등등 C언어 애호가라면 필수적으로 알아야할 것들)
-> 2. Windows API, Windows System Programming, Windows Reversing , C++ , Socket Programming, Data structure, Algorithim, HTML, Java
-> (광범위하고 조금씩 필요할때마다 연동해가면서 선배님의 조언을 받으며 독학)
-> 3. `MFC`(시스템을 연구하는 부분은 접어두고 
-
 
 ## 1. 보안에 입문한 계기는 무엇입니까? (2011 ~ 2012)
 
